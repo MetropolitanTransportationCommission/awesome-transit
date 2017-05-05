@@ -13,7 +13,6 @@
 - [SIRI](#siri)
 - [Data](#data)
 - [APIs](#apis)
-- [Resources](#resources)
 - [Visualizations](#visualizations)
 
 
